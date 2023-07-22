@@ -20,6 +20,9 @@
   align-items: center;
   justify-content: space-between;
 }
+.meme {
+  width: 0px;
+}
 .navbar ul li {
   list-style: none;
   display: inline-block;
